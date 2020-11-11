@@ -1,0 +1,276 @@
+.carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+    }
+    
+    /* Declare heights because of positioning of img element */
+    .carousel-item {
+    height: 33.5rem;
+    
+    }
+    .carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 50rem;
+    }
+    
+    .textoLegible{
+        display: inline-block;
+      bottom: 10px;
+      left: 10px;
+      color: white;
+    
+    }
+    .opp .textoLegible{
+        background: rgba(255, 255, 255, 0.75);
+        color: black;
+      
+    }
+    .color-boton{
+        background-color: #9CF08C;
+    }
+    
+    
+    .marketing .col-lg-4 {
+        margin-bottom: 1.5rem;
+        text-align: center;
+      }
+      .marketing{
+        font-weight: 400;
+      }
+      .marketing .col-lg-4 p {
+        margin-right: .75rem;
+        margin-left: .75rem;
+      }
+    .featurette-divider {
+        margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+      }
+      
+      /* Thin out the marketing headings */
+      .featurette-heading {
+        font-weight: 300;
+        line-height: 1;
+        letter-spacing: -.05rem;
+      }
+
+      .separar2{
+        margin-top: 100px !important;
+      }
+      
+      .separar4{
+        margin-top: 70px !important;
+      }
+      
+      
+      .separar3{
+        margin-top: 50px !important;
+      }
+      
+      .separar5{
+        margin-top: 20px !important;
+      }
+      
+      .separar6{
+        margin-top: 10px !important;
+      }
+      
+
+
+      .color-nadvad{
+        background-color: thistle !important;
+      }
+      
+
+      
+      .altura{
+        height: 50px !important;
+      }
+      
+      .centrar{
+        text-align: center !important;
+      }
+      
+      
+      .separar-icon{
+        padding-left: 10px !important;
+        margin: 20px !important;
+      }
+      
+      
+      .video{
+        height: auto !important;
+        width: 700px !important;
+      }
+      
+      
+      .centrar-contenido{
+        text-align: center !important;
+        align-items: center !important;
+        margin: auto !important;
+        padding: auto !important;
+      }
+      
+      
+.color-boton{
+        background-color: #308446 !important;  
+        color: white !important;
+    }
+
+ .color-boton:hover{
+background-color: #1F6116 !important;
+    }
+
+
+      
+    .color-boton2{
+      background-color: white;    
+      color: white;
+  }
+
+
+
+
+    .footer-bs .footer-brand, .footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns { padding:10px 25px; }
+    .footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns { border-color: transparent; }
+    .footer-bs .footer-brand h2 { margin:0px 0px 10px; }
+    .footer-bs .footer-brand p { font-size:12px; color:rgba(255,255,255,0.70); }
+    
+    .footer-bs .footer-nav ul.pages { list-style:none; padding:0px; }
+    .footer-bs .footer-nav ul.pages li { padding:5px 0px;}
+    .footer-bs .footer-nav ul.pages a { color:rgba(255,255,255,1.00); font-weight:bold; text-transform:uppercase; }
+    .footer-bs .footer-nav ul.pages a:hover { color:rgba(255,255,255,0.80); text-decoration:none; }
+    .footer-bs .footer-nav h4 {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        margin-bottom:10px;
+    }
+    
+    .footer-bs .footer-nav ul.list { list-style:none; padding:0px; }
+    .footer-bs .footer-nav ul.list li { padding:5px 0px;}
+    .footer-bs .footer-nav ul.list a { color:rgba(255,255,255,0.80); }
+    .footer-bs .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decoration:none; }
+    
+    .footer-bs .footer-social ul { list-style:none; padding:0px; }
+    .footer-bs .footer-social h4 {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    }
+    .footer-bs .footer-social li { padding:5px 4px;}
+    .footer-bs .footer-social a { color:rgba(255,255,255,1.00);}
+    .footer-bs .footer-social a:hover { color:rgba(255,255,255,0.80); text-decoration:none; }
+    
+    .footer-bs .footer-ns h4 {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        margin-bottom:10px;
+    }
+    .footer-bs .footer-ns p { font-size:12px; color:rgba(255,255,255,0.70); }
+    .color-fondo{
+        background-color:#D99058;
+    }
+
+.color-nadvad{
+        background-color: #D99058 !important;
+      }
+
+      .letras{
+        color: white !important;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px !important;
+        }
+
+ .letras2{
+        color: black !important;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px !important;
+        text-align: center !important;
+        }
+        
+        .letras3{
+          color: #D99058 !important;
+          font-family: 'Montserrat', sans-serif;
+          font-size: 15px !important;
+          }
+
+
+
+
+
+.sombra{
+  box-shadow:   1px 1px 3px #666 !important
+  
+}
+
+.separar-botones{
+  padding: 10px !important;
+}
+
+.separar-con{
+  padding: 100px !important;
+}
+
+
+.animate__animated.animate__bounce {
+  --animate-duration: 2s;
+}
+
+/* This changes all the animations globally */
+:root {
+  --animate-duration: 800ms;
+  --animate-delay: 0.9s;
+}
+
+
+        .zoom{
+          /* Aumentamos la anchura y altura durante 2 segundos */
+          transition: width 1s, height 1s, transform 1s;
+          -moz-transition: width 2s, height 2s, -moz-transform 2s;
+          -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+          -o-transition: width 2s, height 2s,-o-transform 2s;
+      }
+      .zoom:hover{
+          /* tranformamos el elemento al pasar el mouse por encima al doble de
+             su tamaño con scale(2). */
+          transform : scale(1.1);
+          -moz-transform : scale(1.1);      /* Firefox */
+          -webkit-transform : scale(1.1);   /* Chrome - Safari */
+          -o-transform : scale(1.1);        /* Opera */
+      }
+
+
+
+
+      input {
+        border: 2px solid;
+        border-radius: 4px;
+        font-size: 1rem;
+        margin: 0.25rem;
+        min-width: 125px;
+        padding: 0.5rem;
+        transition: border-color 0.5s ease-out;
+      }
+      input:optional {
+        border-color: gray;
+      }
+
+    
+
+      input:required:valid {
+        border-color: green;
+      }
+      
+      input:required:focus:valid {
+        background: url("https://assets.digitalocean.com/labs/icons/hand-thumbs-up.svg") no-repeat 95% 50% lightgreen;
+        background-size: 25px;
+      }
+      input:focus:invalid {
+        background: url("https://assets.digitalocean.com/labs/icons/exclamation-triangle-fill.svg") no-repeat 95% 50% lightsalmon;
+        background-size: 25px;
+      }
+
+

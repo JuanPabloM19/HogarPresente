@@ -1,0 +1,84 @@
+
+
+  .separar2{
+    margin-top: 100px !important;
+  }
+  
+  .separar4{
+    margin-top: 70px !important;
+  }
+  
+  
+  .separar3{
+    margin-top: 50px !important;
+  }
+
+  
+  .altura{
+    height: 50px !important;
+  }
+  
+  .centrar{
+    text-align: center !important;
+  }
+  
+  
+  .separar-icon{
+    padding-left: 10px !important;
+    margin: 20px !important;
+  }
+  
+  .separar6{
+    margin-top: 10px !important;
+  }
+
+  .centrar-contenido{
+    text-align: center !important;
+    align-items: center !important;
+    margin: auto !important;
+    padding: auto !important;
+  }
+  
+  
+  .color-boton{
+    background-color: #308446 !important;  
+    color: white !important;
+}
+
+.color-boton:hover{
+background-color: #1F6116 !important;
+}
+
+
+
+  .letras{
+    color: white !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px !important;
+    }
+
+.letras2{
+    color: black !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 55px !important;
+    text-align: center !important;
+    }
+    
+
+
+.sombra{
+box-shadow:   2px 2px 10px #666 !important
+
+}
+
+.separar-botones{
+padding: 10px !important;
+}
+
+.separar-con{
+padding: 100px !important;
+}
+
+.cajadepdf{
+border: #D99058 5px solid !important;
+}
